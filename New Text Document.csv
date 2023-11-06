@@ -1,0 +1,102 @@
+CustomerID,Date,ProductID,Category,Brand,Price,Quantity,Total
+1,2023-10-01,101,Electronics,Sony,500,2,1000
+2,2023-10-02,102,Apparel,Nike,80,3,240
+3,2023-10-03,103,Home & Kitchen,Philips,120,4,480
+4,2023-10-04,104,Electronics,Samsung,600,1,600
+5,2023-10-05,105,Electronics,Apple,1000,1,1000
+6,2023-10-06,106,Apparel,Adidas,90,2,180
+7,2023-10-07,107,Home & Kitchen,KitchenAid,150,2,300
+8,2023-10-08,108,Electronics,Sony,500,3,1500
+9,2023-10-09,109,Apparel,Nike,75,1,75
+10,2023-10-10,110,Electronics,Samsung,550,2,1100
+11,2023-10-11,111,Home & Kitchen,Philips,110,3,330
+12,2023-10-12,112,Apparel,Adidas,95,4,380
+13,2023-10-13,113,Electronics,Apple,1050,1,1050
+14,2023-10-14,114,Home & Kitchen,KitchenAid,160,2,320
+15,2023-10-15,115,Electronics,Apple,1050,1,1050
+16,2023-10-16,116,Electronics,Microsoft,450,2,900
+17,2023-10-17,117,Apparel,Puma,70,3,210
+18,2023-10-18,118,Home & Kitchen,Cuisinart,130,4,520
+19,2023-10-19,119,Electronics,Logitech,60,1,60
+20,2023-10-20,120,Electronics,Apple,1100,1,1100
+21,2023-10-21,121,Apparel,Under Armour,85,2,170
+22,2023-10-22,122,Home & Kitchen,Breville,160,2,320
+23,2023-10-23,123,Electronics,Microsoft,440,3,1320
+24,2023-10-24,124,Apparel,Puma,72,1,72
+25,2023-10-25,125,Electronics,Logitech,58,2,116
+26,2023-10-26,126,Home & Kitchen,Cuisinart,125,3,375
+27,2023-10-27,127,Electronics,Apple,1080,1,1080
+28,2023-10-28,128,Electronics,Samsung,620,2,1240
+29,2023-10-29,129,Apparel,Under Armour,88,1,88
+30,2023-10-30,130,Home & Kitchen,Breville,155,4,620
+31,2023-10-31,131,Electronics,Microsoft,445,3,1335
+32,2023-11-01,132,Apparel,Puma,68,2,136
+33,2023-11-02,133,Home & Kitchen,Cuisinart,128,2,256
+34,2023-11-03,134,Electronics,Apple,1090,1,1090
+35,2023-11-04,135,Electronics,Samsung,635,2,1270
+36,2023-11-05,136,Apparel,Under Armour,90,3,270
+37,2023-11-06,137,Home & Kitchen,Breville,165,1,165
+38,2023-11-07,138,Electronics,Microsoft,455,2,910
+39,2023-11-08,139,Apparel,Puma,75,2,150
+40,2023-11-09,140,Home & Kitchen,Cuisinart,133,3,399
+41,2023-11-10,141,Electronics,Logitech,62,1,62
+42,2023-11-11,142,Electronics,Apple,1075,1,1075
+43,2023-11-12,143,Apparel,Under Armour,87,3,261
+44,2023-11-13,144,Home & Kitchen,Breville,150,4,600
+45,2023-11-14,145,Electronics,Samsung,610,2,1220
+46,2023-11-15,146,Apparel,Nike,77,2,154
+47,2023-11-16,147,Home & Kitchen,Philips,115,3,345
+48,2023-11-17,148,Electronics,Sony,510,2,1020
+49,2023-11-18,149,Apparel,Adidas,88,3,264
+50,2023-11-19,150,Home & Kitchen,KitchenAid,155,1,155
+51,2023-11-20,151,Electronics,Apple,1080,1,1080
+52,2023-11-21,152,Electronics,Logitech,63,2,126
+53,2023-11-22,153,Apparel,Under Armour,86,1,86
+54,2023-11-23,154,Home & Kitchen,Breville,157,2,314
+55,2023-11-24,155,Electronics,Microsoft,460,3,1380
+56,2023-11-25,156,Apparel,Puma,74,2,148
+57,2023-11-26,157,Home & Kitchen,Cuisinart,130,4,520
+58,2023-11-27,158,Electronics,Apple,1090,1,1090
+59,2023-11-28,159,Electronics,Samsung,630,1,630
+60,2023-11-29,160,Apparel,Nike,75,2,150
+61,2023-11-30,161,Electronics,Microsoft,455,3,1365
+62,2023-12-01,162,Apparel,Puma,73,2,146
+63,2023-12-02,163,Home & Kitchen,Cuisinart,128,2,256
+64,2023-12-03,164,Electronics,Apple,1070,1,1070
+65,2023-12-04,165,Electronics,Samsung,625,2,1250
+66,2023-12-05,166,Apparel,Under Armour,89,1,89
+67,2023-12-06,167,Home & Kitchen,Breville,155,3,465
+68,2023-12-07,168,Electronics,Microsoft,460,2,920
+69,2023-12-08,169,Apparel,Puma,72,3,216
+70,2023-12-09,170,Home & Kitchen,Cuisinart,130,4,520
+71,2023-12-10,171,Electronics,Logitech,62,2,124
+72,2023-12-11,172,Electronics,Apple,1100,1,1100
+73,2023-12-12,173,Apparel,Under Armour,85,2,170
+74,2023-12-13,174,Home & Kitchen,Breville,160,3,480
+75,2023-12-14,175,Electronics,Samsung,630,1,630
+76,2023-12-15,176,Electronics,Sony,520,2,1040
+77,2023-12-16,177,Apparel,Adidas,90,2,180
+78,2023-12-17,178,Home & Kitchen,KitchenAid,150,3,450
+79,2023-12-18,179,Electronics,Apple,1090,1,1090
+80,2023-12-19,180,Electronics,Logitech,65,1,65
+81,2023-12-20,181,Apparel,Under Armour,84,3,252
+82,2023-12-21,182,Home & Kitchen,Breville,155,2,310
+83,2023-12-22,183,Electronics,Microsoft,450,2,900
+84,2023-12-23,184,Apparel,Puma,70,1,70
+85,2023-12-24,185,Home & Kitchen,Cuisinart,125,3,375
+86,2023-12-25,186,Electronics,Apple,1080,1,1080
+87,2023-12-26,187,Electronics,Samsung,615,3,1845
+88,2023-12-27,188,Apparel,Under Armour,88,2,176
+89,2023-12-28,189,Home & Kitchen,KitchenAid,155,2,310
+90,2023-12-29,190,Electronics,Apple,1080,1,1080
+91,2023-12-30,191,Electronics,Logitech,60,4,240
+92,2023-12-31,192,Apparel,Puma,75,2,150
+93,2024-01-01,193,Home & Kitchen,Cuisinart,135,3,405
+94,2024-01-02,194,Electronics,Microsoft,460,1,460
+95,2024-01-03,195,Apparel,Under Armour,86,2,172
+96,2024-01-04,196,Home & Kitchen,Breville,160,1,160
+97,2024-01-05,197,Electronics,Apple,1070,1,1070
+98,2024-01-06,198,Electronics,Samsung,630,2,1260
+99,2024-01-07,199,Apparel,Under Armour,87,1,87
+100,2024-01-08,200,Home & Kitchen,KitchenAid,150,3,450
+
